@@ -1,0 +1,6 @@
+framework module Pods_MVVM_DEMO_MVVM_DEMOUITests {
+  umbrella header "Pods-MVVM_DEMO-MVVM_DEMOUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
